@@ -2,7 +2,6 @@
 
 **morphea for pathology atlas repositories**
 
-
 [https://images.patolojiatlasi.com/morphea/](https://images.patolojiatlasi.com/morphea/)
 
 [https://images.patolojiatlasi.com/morphea/HE.html](https://images.patolojiatlasi.com/morphea/HE.html)
@@ -11,13 +10,13 @@
 
 [Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/morphea/HE.html)
 
-`<a href="https://images.patolojiatlasi.com/morphea/HE.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_morphea-HE.png" style="width:25%;">``</a>`
+<a href="https://images.patolojiatlasi.com/morphea/HE.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_morphea-HE.png" style="width:25%;"></a>
 
 **Morphea**
 
 [Click for Full Screen WSI](https://images.patolojiatlasi.com/morphea/HE.html)
 
-`<a href="https://images.patolojiatlasi.com/morphea/HE.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_morphea-HE.png" style="width:25%;">``</a>`
+<a href="https://images.patolojiatlasi.com/morphea/HE.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_morphea-HE.png" style="width:25%;"></a>
 
 Mikroskopik görüntüleri inceleyin:
 
